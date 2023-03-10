@@ -15,7 +15,7 @@ psychology, and economics
 
 ## 🛠️ Tools and Technology
 <p align="left"> 
-  <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.flaticon.com/free-icon/js_5968292?term=javascript&page=1&position=4&origin=search&related_id=5968292" alt="figma" width="40" height="40"/> </a> 
+  <a href="https://www.javascript.com/" target="_blank"> <img src="https://cdn.simpleicons.org/JavaScript" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
   <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
