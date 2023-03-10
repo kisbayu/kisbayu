@@ -15,6 +15,7 @@ psychology, and economics
 
 ## 🛠️ Tools and Technology
 <p align="left"> 
+  <a href="https://javascript.com/" target="_blank"> <img src="https://cdn.simpleicons.org/JavaScript" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/React" alt="react" width="40" height="40"/> </a> 
   <a href="https://nodejs.org/" target="_blank"> <img src="https://cdn.simpleicons.org/Node.js" alt="nodejs" width="40" height="40"/> </a> 
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
