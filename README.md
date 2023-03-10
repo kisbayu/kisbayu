@@ -13,6 +13,3 @@ psychology, and economics
 
 
 ## 📈 Stats
-
-## 📚 Currently Learning
-
