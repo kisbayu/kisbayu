@@ -4,8 +4,8 @@
 
 ## About Me
 -I'm an information engineering student based on Indonesia\
--Proficient with web development, software engineering,\ 
--Experienced in UX research, UI/UX design, and product design\
+-Proficient with web development, software engineering\ 
+-Experienced in UX research, UI/UX design, and product design \
 -Intrested in machine laerning, computer vision, applied\
 psychology, and economics
 <!--
