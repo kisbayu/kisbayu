@@ -13,3 +13,4 @@ psychology, and economics
 
 
 ## 📈 Stats
+![Kisbayu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kisbayu&show_icons=true&theme=transparent)
