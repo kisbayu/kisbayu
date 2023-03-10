@@ -14,3 +14,4 @@ psychology, and economics
 
 ## 📈 Stats
 ![Kisbayu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kisbayu&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kisbayu&hide=QML,html,cython&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
