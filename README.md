@@ -5,8 +5,8 @@
 ## About Me
 -I'm an information engineering student based on Indonesia<br>
 -Proficient with web development, software engineering<br>
--Experienced in UX research, UI/UX design, and product design\
--Intrested in machine laerning, computer vision, applied\
+-Experienced in UX research, UI/UX design, and product design<br>
+-Intrested in machine laerning, computer vision, applied<br>
 psychology, and economics
 <!--
 **kisbayu/kisbayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
