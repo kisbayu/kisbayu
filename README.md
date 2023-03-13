@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me
 👨‍🎓 I'm an information engineering student based on Indonesia<br>
-💻 Proficient with web development, software engineering<br>
+💻 Proficient with web development and software engineering<br>
 💼 Experienced in UX research, UI/UX design, and product design<br>
 🧐 Intrested in machine laerning, computer vision, applied<br>
 psychology, and economics
