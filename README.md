@@ -21,7 +21,8 @@ psychology, and economics
   <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a>
   <img src="https://cdn.simpleicons.org/C" alt="C" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/C++" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/php" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/php" alt="php" width="40" height="40"/>laravel
+  <img src="https://cdn.simpleicons.org/laravel" alt="laravel" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/MySQL" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
